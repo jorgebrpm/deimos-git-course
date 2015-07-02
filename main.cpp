@@ -14,9 +14,7 @@
 *
 * File: $RCSfile: ,v $
 * ID: $Id: rew Exp $
-*
-* Purpose:
-*	Main for module Driver Node Cluster RPS
+
 *
 **********************************************************************/
 
